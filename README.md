@@ -14,6 +14,7 @@ Provides ease of use with type hints
 ## Components
 
 1. [ForEach](./docs/foreach.md)
+2. [IF](./docs/IF.md)
 
 ## Installation
 
